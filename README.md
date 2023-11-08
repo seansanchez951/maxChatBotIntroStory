@@ -1,6 +1,7 @@
 # maxChatBotIntroStory
 Chatbot max for live device using OpenAI, Deepgram, and Elevenlabs APIs to create an interactive chatbot that takes users' responses to create a story about AI and humans
 
+NOTE: Use your own API keys within the .env file
 
 <img width="1143" alt="maxChatbotIntro Front-end" src="https://github.com/seansanchez951/maxChatBotIntroStory/assets/69922895/db2a90e1-31cd-4adb-88d3-dceb82480a77">
 
